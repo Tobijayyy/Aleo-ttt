@@ -1,2 +1,3 @@
 # Aleo-tictactor
-My Aleo Tictactoe App
+My Aleo ttt app
+
